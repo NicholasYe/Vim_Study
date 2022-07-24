@@ -1,2 +1,2 @@
 
-This repo is the place I study Vim.
+This repo is the place where I study Vim.
